@@ -52,7 +52,7 @@ subheader: null
 published: true
 header: Client's Name
 featuredImage:
-  src: /img/businesshero2.png
+  src: /img/nathalie-bevis-profile-hero.jpg
   alt: Hero Image
   caption: null
 discoverConnectExplore: Discover, Connect & Explore
