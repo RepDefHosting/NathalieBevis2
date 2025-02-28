@@ -2,7 +2,9 @@
 templateKey: gallery-archive
 pageSlug: /gallery
 pageTitle: Gallery
-metaDescription: Gallery Page of Chandler Villacruz, Senior Marketing Manager
+metaDescription: Nathalie Bevis has also traveled to Italy, Brazil, and
+  Shanghai, and enjoys visiting New York City, which she loves for the fashion
+  and Broadway musicals.
 published: true
 schemaType: WebPage
 header: Gallery
