@@ -9,7 +9,7 @@ published: true
 schemaType: WebPage
 header: Gallery
 featuredImage:
-  src: /img/pic-executive-banner-gallery-01.webp
+  src: /img/nathalie-bevis-profile-hero.jpg
   alt: Gallery
   caption: null
 profileButton:
