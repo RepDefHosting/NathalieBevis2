@@ -50,7 +50,7 @@ pageContent: >-
   * **Mr. Villacruz** obtained a bachelor of business administration in marketing from the Mays Business School at Texas A&M University, where he pursued the Advertising Strategy career track. Subsequently, he earned a master of science in marketing at the University of Southern California.
 subheader: null
 published: true
-header: Client's Name
+header: Nathalie Bevis
 featuredImage:
   src: /img/nathalie-bevis-profile-hero.jpg
   alt: Hero Image
