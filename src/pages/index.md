@@ -19,8 +19,8 @@ metaDescription: A Canadian American living in New Albany, Ohio, Nathalie Bevis
   had a career in sales and marketing spanning nearly 20 years.
 published: true
 blogButton:
-  link: /blog
-  label: Blog
+  link: /gallery
+  label: Gallery
 shortBiography: Since joining the web-based restaurant review company in its
   startup phase, Chandler Villacruz has spearheaded market research activities
   that have allowed the firm to build effective advertising campaigns and
