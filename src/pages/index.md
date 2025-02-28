@@ -1,7 +1,7 @@
 ---
 missionStatement: "{{mission_statement}}"
 templateKey: index-page
-pageTitle: Client's Name
+pageTitle: Nathalie Bevis
 pageContent: Since joining the web-based **restaurant review** company in its
   startup phase, **Chandler Villacruz** has spearheaded *market research*
   activities that have allowed the firm to build *effective advertising*
@@ -10,18 +10,14 @@ learnMoreButton:
   link: /about/
   label: Read More
 subheader: Client's Subtitle
-pageSlug: /
 featuredImage:
-  src: /img/businesshero2.png
-  alt: Hero Image for home page
+  src: /img/n-bevis-hero-home-image.jpeg
+  alt: Nathalie Bevis Hero Image for home
   caption: null
 header: Client Name
-metaDescription: First paragraph of Clients Bio. That would meet the character
-  count range, and have the clients name in the Meta Data
+metaDescription: A Canadian American living in New Albany, Ohio, Nathalie Bevis
+  had a career in sales and marketing spanning nearly 20 years.
 published: true
-profileButton:
-  link: /profile
-  label: About
 blogButton:
   link: /blog
   label: Blog
@@ -29,7 +25,11 @@ shortBiography: Since joining the web-based restaurant review company in its
   startup phase, Chandler Villacruz has spearheaded market research activities
   that have allowed the firm to build effective advertising campaigns and
   achieve sound business growth.
+pageSlug: /
 schemaType: WebPage
+profileButton:
+  link: /profile
+  label: About
 showRecentPosts: false
 ---
-First paragraph of clients bio. And feel free to link clients name out to different **[blog sites](google.com)**
+A Canadian American living in New Albany, Ohio, Nathalie Bevis had a career in sales and marketing spanning nearly 20 years. In 2018, Nathalie Bevis traded in sales and marketing to volunteer with several community organizations.
