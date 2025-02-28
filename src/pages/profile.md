@@ -59,7 +59,7 @@ discoverConnectExplore: Discover, Connect & Explore
 longBiography_MD: |
   {{long_biography}}
 ---
-A Canadian American living in New Albany, Ohio, [Nathalie Bevis](https://nathaliedbevis.weebly.com/uploads/1/4/5/8/145895166/nathalie-bevis-dancing-health_orig.jpg) had a career in sales and marketing spanning nearly 20 years. In 2018, Nathalie Bevis traded in sales and marketing to volunteer with several community organizations.
+A Canadian American living in New Albany, Ohio, [Nathalie Bevis](https://nbevis.tumblr.com/) had a career in sales and marketing spanning nearly 20 years. In 2018, Nathalie Bevis traded in sales and marketing to volunteer with several community organizations.
 
 In 1999, [Ms. Bevis began her career as a sales leader](https://medium.com/@nathaliebevis) for a packaging company. In 2005, she became a marketing event planner for corporate organizations, and later in 2010, she helped businesses carve out their brand as a sales and marketing leader.
 
