@@ -11,7 +11,7 @@ learnMoreButton:
   label: Read More
 subheader: Client's Subtitle
 featuredImage:
-  src: /img/businesshero2.png
+  src: /img/n-bevis-hero-home-image.jpeg
   alt: Nathalie Bevis Hero Image for home
   caption: null
 header: Client Name
