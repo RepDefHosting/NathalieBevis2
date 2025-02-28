@@ -1,26 +1,24 @@
 ---
 templateKey: site-data
 published: true
-name: Client Name
-jobTitle: Client's Job Title
-location: City, State, Country
+name: Nathalie Bevis
 profileImage:
-  src: /img/default-profile-male.png
-  alt: Client's headshot
-siteUrl: https://url.com
+  src: /img/nathalie-bevis-profile.jpg
+  alt: Nathalie Bevis' headshot
+siteUrl: https://nathalie-bevis.com
 socialLinks:
   twitter:
-    url: https://www.x.com
+    url: https://x.com/nathaliebevis
     label: Visit
     show: true
   facebook:
     url: https://www.facebook.com
     label: Visit
-    show: true
+    show: false
   linkedin:
     url: https://www.linkedin.com
     label: Visit
-    show: true
+    show: false
   pinterest:
     url: null
     label: Visit
@@ -35,6 +33,8 @@ themeOptions:
   colorScheme: londn
   fontScheme: muli
   showThemeSwitcher: false
+location: New Albany, OH, USA
 fallbackImage: /img/pic-executive-main-banner-01.webp
+jobTitle: Canadian American with Numerous Interests
 siteAnalytics: null
 ---
