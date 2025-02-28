@@ -61,10 +61,10 @@ longBiography_MD: |
 ---
 A Canadian American living in New Albany, Ohio, [Nathalie Bevis](https://nathaliedbevis.weebly.com/uploads/1/4/5/8/145895166/nathalie-bevis-dancing-health_orig.jpg) had a career in sales and marketing spanning nearly 20 years. In 2018, Nathalie Bevis traded in sales and marketing to volunteer with several community organizations.
 
-In 1999, Ms. Bevis began her career as a sales leader for a packaging company. In 2005, she became a marketing event planner for corporate organizations, and later in 2010, she helped businesses carve out their brand as a sales and marketing leader.
+In 1999, [Ms. Bevis began her career as a sales leader](https://medium.com/@nathaliebevis) for a packaging company. In 2005, she became a marketing event planner for corporate organizations, and later in 2010, she helped businesses carve out their brand as a sales and marketing leader.
 
 In 2018, she moved to Atlanta and began volunteering with Open Hands, where she served meals to residents in need. In 2020, she returned to Ohio and began volunteering with Celebrating One. With this organization, she helped children get school supplies, helped families get through emergencies, and comforted youth dealing with various issues by writing cards of encouragement. She also helped children who were wards of Franklin County Children’s Protective Services. Recently, she helped her husband and his company with its holiday gift drive.
 
-Outside of work and volunteering, Ms. Bevis has numerous interests. She speaks both French and English, a skill she used during her career in marketing. She has also traveled to Italy, Brazil, and Shanghai, and enjoys visiting New York City, which she loves for the fashion and Broadway musicals.
+Outside of work and volunteering, [Ms. Bevis has numerous interests.](https://nathaliedbevis.weebly.com/) She speaks both French and English, a skill she used during her career in marketing. She has also traveled to Italy, Brazil, and Shanghai, and enjoys visiting New York City, which she loves for the fashion and Broadway musicals.
 
 Ms. Bevis cooks and gardens, taking vegetables from her garden to make pickles and Thai chicken and fried rice, among other dishes. She also enjoys making (for friends) and eating poutine.
