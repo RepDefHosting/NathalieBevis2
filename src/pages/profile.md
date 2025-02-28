@@ -6,8 +6,8 @@ metaDescription: A Canadian American living in New Albany, Ohio, Nathalie Bevis
   had a career in sales and marketing spanning nearly 20 years.
 schemaType: ProfilePage
 blogButton:
-  label: Blog
-  link: /blog
+  label: Gallery
+  link: /gallery
 connectWithMe: Connect with me
 pageContent: >-
   # Heading line here
